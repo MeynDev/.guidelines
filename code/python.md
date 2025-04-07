@@ -1,9 +1,8 @@
-# MeynDev Python guidelines.
+# 🐍 MeynDev Python Guidelines
 
-| Feature                | Tool                                                             |
-|------------------------|------------------------------------------------------------------|
-| Project manager        | [uv](https://github.com/astral-sh/uv)                            |
-| Linting and formatting | [ruff](https://github.com/astral-sh/ruff)                        |
-| Import sorting         | [ruff (isort rules)](https://docs.astral.sh/ruff/rules/#isort-i) |
-| Testing                | [pytest](https://docs.pytest.org/)                               |
-| Building               | [Nuitka](https://nuitka.net/)                                    |
+| Feature              | Tool                                      | Purpose                                                   |
+|----------------------|-------------------------------------------|-----------------------------------------------------------|
+| Project manager      | [uv](https://github.com/astral-sh/uv)     | Dependency management & virtual environments              |
+| Linting & formatting | [ruff](https://github.com/astral-sh/ruff) | Code style, formatting & linting                          |
+| Testing              | [pytest](https://docs.pytest.org/)        | Writing and running tests                                 |
+| Building             | [Nuitka](https://nuitka.net/)             | Compile Python to native binaries (for Windows and Linux) |
