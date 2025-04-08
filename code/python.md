@@ -1,13 +1,13 @@
 # 🐍 MeynDev Python Guidelines
 
-| Feature              | Tool                                                                                                                                                    | Purpose                                      |
-|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
-| Project manager      | [![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white)](https://github.com/astral-sh/uv)                            | Dependency management & virtual environments |
-| Linting & formatting | [![ruff](https://img.shields.io/badge/ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)](https://github.com/astral-sh/ruff)                    | Code style, formatting & linting             |
-| Testing              | [![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://pytest.org)                             | Writing and running tests                    |
-| Building             | [![Nuitka](https://img.shields.io/badge/nuitka-3776AB?style=for-the-badge&logo=nuitka&logoColor=white)](https://github.com/astral-sh/ruff)              | Compile Python to native binaries            |
-| Type checking        | [![Pyright](https://img.shields.io/badge/Pyright-C3C38F?style=for-the-badge&logo=pyright&logoColor=white)](https://github.com/astral-sh/ruff)           | Fast and lightweight type checking           |
-| Pre-commit hooks     | [![pre-commit](https://img.shields.io/badge/pre--commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=black)](https://github.com/astral-sh/ruff) | Automating code quality checks on commits    |
+| Feature              | Tool                                                                                                                                             | Purpose                                      |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+| Project manager      | [![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white)](https://github.com/astral-sh/uv)                     | Dependency management & virtual environments |
+| Linting & formatting | [![ruff](https://img.shields.io/badge/ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)](https://github.com/astral-sh/ruff)             | Code style, formatting & linting             |
+| Testing              | [![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://pytest.org)                      | Writing and running tests                    |
+| Building             | [![Nuitka](https://img.shields.io/badge/nuitka-3776AB?style=for-the-badge&logo=nuitka&logoColor=white)](https://nuitka.net)                      | Compile Python to native binaries            |
+| Type checking        | [![Pyright](https://img.shields.io/badge/Pyright-C3C38F?style=for-the-badge&logo=pyright&logoColor=white)](https://github.com/microsoft/pyright) | Fast and lightweight type checking           |
+| Pre-commit hooks     | [![pre-commit](https://img.shields.io/badge/pre--commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=black)](https://pre-commit.com)     | Automating code quality checks on commits    |
 
 ## Basic pre-commit hooks configuration for linting, formatting and type checking
 ```yaml
