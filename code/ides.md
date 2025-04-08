@@ -12,10 +12,10 @@ However, you're absolutely free to use **any IDE or code editor** you like — w
 
 ### 🛠️ Popular Choices in MeynDev
 
-| IDE      | Purpose                                 | Badge                                                                                               |
-|----------|-----------------------------------------|-----------------------------------------------------------------------------------------------------|
-| PyCharm  | Python development                      | ![JetBrains](https://img.shields.io/badge/JetBrains-PyCharm-blue?logo=jetbrains)                    |
-| Rider    | .NET/Unity projects                     | ![JetBrains](https://img.shields.io/badge/JetBrains-Rider-blue?logo=jetbrains)                      |
-| WebStorm | Web development                         | ![JetBrains](https://img.shields.io/badge/JetBrains-WebStorm-blue?logo=jetbrains)                   |
-| Fleet    | Lightweight editor with IntelliJ smarts | ![JetBrains](https://img.shields.io/badge/JetBrains-Fleet-blue?logo=jetbrains)                      |
-| VS Code  | Alt. lightweight editor                 | ![VS Code](https://img.shields.io/badge/Editor-VSCode-007ACC?logo=visualstudiocode&logoColor=white) |
+| IDE      | Purpose                                 | Badge                                                                                                          |
+|----------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| PyCharm  | Python development                      | ![JetBrains](https://img.shields.io/badge/JetBrains-PyCharm-blue?style=for-the-badge&logo=jetbrains)           |
+| Rider    | .NET/Unity projects                     | ![JetBrains](https://img.shields.io/badge/JetBrains-Rider-blue?style=for-the-badge&logo=jetbrains)             |
+| WebStorm | Web development                         | ![JetBrains](https://img.shields.io/badge/JetBrains-WebStorm-blue?style=for-the-badge&logo=jetbrains)          |
+| Fleet    | Lightweight editor with IntelliJ smarts | ![JetBrains](https://img.shields.io/badge/Editor-Fleet-blue?style=for-the-badge&logo=jetbrains)                |
+| VS Code  | Alt. lightweight editor                 | ![VS Code](https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=windows&logoColor=white) |
