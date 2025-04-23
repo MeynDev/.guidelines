@@ -1,16 +1,13 @@
-# 📚 MeynDev Guidelines
+# 📚 Руководство MeynDev
 
-## 🔍 Overview
+## 🔍 Обзор
 
-- 📄 [Default License – GPLv3](./LICENSE)
+- 📄 [Лицензия по умолчанию – GPLv3](./LICENSE)
 
-### 💻 Code Standards
+### 💻 Стандарты кода
 
-- 🧠 [Preferred IDEs](./code/ides.md)
-  Our recommended development environments.
+- 🧠 [Рекомендуемые IDE](ides.md)
+  Наши предпочтительные среды разработки.
 
-- 🐍 [Python Guidelines](./code/python.md)
-  Tools, formatting, and best practices for Python projects.
-
-- 🧱 [C# Guidelines (WIP)](./code/csharp.md)
-  Draft document for C# project conventions.
+- 🐍 [Руководство по Python](./python/main.md)
+  Инструменты, форматирование и лучшие практики для проектов на Python.
