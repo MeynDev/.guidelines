@@ -35,3 +35,13 @@ repos:
 
 ```
 #### Don't forget to run `pre-commit autoupdate` for replace "latest" to actual latest versions.
+
+## How to create project
+1. Init project using uv:
+   ```shell
+   uv init ZapFiles-rewritten && cd ZapFiles-rewritten
+   ```
+2. Create and activate venv (Linux)
+   ```shell
+   uv venv && source .venv/bin/activate
+   ```
